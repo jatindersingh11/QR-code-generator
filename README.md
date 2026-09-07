@@ -57,7 +57,7 @@ Or install them manually:
 pip install qrcode[pil]
 ```
 
-## ▶️ How to Run
+## How to Run
 
 Run the following command:
 
@@ -75,7 +75,7 @@ The application window will open.
 6. Your QR code will be saved as an image.
 
 
-## 👨‍💻 Author
+## Author
 
 Jatinder Singh
 
